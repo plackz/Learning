@@ -1,0 +1,57 @@
+html {
+    font-size: 10px; /*px means 'pixels' */
+    color: lightgoldenrodyellow;
+    background-color: #114477;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: lightgoldenrodyellow;
+    text-shadow: 3px 3px 1px black;
+
+}
+
+p, li, a {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    border: 1px solid gray;
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #003366;
+    padding: 0 20px 20px 20px;
+    border: 3px solid gray;
+}
+
+/*navigation menue */
+
+ul {
+    background: lightslategray;
+    border: 1px solid gray;
+}
+
+
+/*  testing with Mozilla Dev Network "html head" tutorial
+
+ul {
+    background: red;
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+li {
+    margin-left: 20pc;
+}
+
+*/
